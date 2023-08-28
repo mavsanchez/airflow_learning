@@ -1,0 +1,4 @@
+
+*.log
+materials/logs/*
+materials/dags/__pycache__/*
